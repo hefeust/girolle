@@ -1,6 +1,6 @@
 
-Gondolle-passagers
-==================
+Gondole passagers
+=================
 
 La gondole est la structure de tranport proprement dite du ballon Girolle. Elle est de forme cylindrique un peu renflée à la base à la faàon d'un bulbe floral. Elle comprend sur trois niveaux et de bas en haut :
 
