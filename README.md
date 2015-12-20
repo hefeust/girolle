@@ -1,5 +1,7 @@
 # girolle ballon foudre
 
+![docs/girolle-002.png girolle ballon foudre](./docs/girolle-002.png)
+
 Meta
 ====
 
