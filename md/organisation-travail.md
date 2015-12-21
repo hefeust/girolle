@@ -1,4 +1,17 @@
 
+
+
+OIL, FARM, IdT by FE
+--------------------
+
+proposition de nouveaux standards
+
+* Organisations industrielles libres
+* Formation Apprentissage Rapide Mutuels
+* Informatique de terrain
+
+proposition exemple :
+
 * temps de travail tuilé
 * 4/5 jours avec 12 semaines à 80% du salaire de base
 
